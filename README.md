@@ -1,10 +1,10 @@
 # cutest cat
 
 Entry for the make.fun "Draw the cutest cat" competition. It writes exactly one
-picture — a chibi orange tabby kitten rolled into a tight near-circular ball
-mid-play, one front paw up showing pink toe beans and a striped tail flung upward,
-all wide blue eyes and open smile, thick black outlines on a flat cream background
-— to `entry.png`.
+picture — a chibi orange tabby kitten spinning after its own tail, twisted into a
+tight wheel with both front paws grabbing air and the tail tip just out of reach,
+all wide blue eyes and open smile, thick black outlines and motion arcs on a flat
+cream background — to `entry.png`.
 
 - Picture: `art/entry.png`, 1024x1024 PNG, 969,609 bytes.
 - Limits: PNG or JPEG, at most 1 MiB (1,048,576 bytes), at most 1024x1024.
