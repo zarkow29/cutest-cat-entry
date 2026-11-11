@@ -16,13 +16,14 @@ ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 HERE = os.path.dirname(os.path.abspath(__file__))
 ART = os.path.join(os.path.dirname(HERE), "art", "entry.png")
 PROMPT = (
-    "adorable gray tabby kitten peeking out of a terracotta flower pot, only head "
-    "and front paws visible with tiny claws hooked over the pot rim, huge green "
-    "eyes with white sparkle highlights, white muzzle and long white whiskers, pink "
-    "nose and inner ears, dark tabby stripes on forehead and cheeks, bold clean "
-    "cartoon outlines, flat shading, plain pale cream-yellow background, soft oval "
-    "shadow under the pot, single cat centered and facing forward, no text, simple "
-    "readable shapes"
+    "cute kawaii cartoon pure white cat fast asleep, curled into a near-circle on a "
+    "plush pink oval cushion, head resting on tucked front paws, thick tail wrapped "
+    "around its body, upright ears with pink inner ears, closed happy curved eyes, "
+    "tiny pink nose, small smile, black whiskers, solid white fur with no stripes or "
+    "patches, subtle blue-gray cel shading, thick clean black outlines, flat fills, "
+    "plain light lavender-periwinkle background, subject centered with generous "
+    "negative space, sticker-like 2D vector illustration, soft pastel palette, cozy "
+    "peaceful mood, square composition, no text"
 )
 
 
