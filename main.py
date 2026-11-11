@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Emit this entry's single cat picture at <output dir>/entry.png.
 
-The vetted artwork is art/entry.png next to this file: a kawaii cartoon pure
-white cat curled up fast asleep on a plush pink cushion, drawn with thick black
-outlines and flat pastel fills on a plain lavender background.
+The vetted artwork is art/entry.png next to this file: a chibi cream cartoon cat
+sitting upright and hugging a pink yarn ball to its chest, drawn with thick black
+outlines and flat pastel fills on a plain mint green background.
 The output directory is /output, or MAKEFUN_OUTPUT_DIR when set, and is
 created if absent. No third-party libraries: just os and shutil.
 """
