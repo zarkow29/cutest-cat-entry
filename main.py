@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Emit this entry's single cat picture at <output dir>/entry.png.
 
-The vetted artwork is art/entry.png next to this file: a chibi gray kitten sitting
-inside a large cream teacup with one paw draped over the rim, tail curled
-to the viewer-right, both eyes teal with wide worried brows, drawn with thick black
-outlines and flat fills on a plain warm mustard yellow background.
+The vetted artwork is art/entry.png next to this file: a chibi orange tabby kitten
+curled into a near-circular ball mid-roll, one front paw raised with pink toe beans,
+thick striped tail swept upward to the viewer-right, huge cheerful blue eyes, drawn
+with thick black outlines and flat fills on a plain cream background, with black
+motion arcs around the tail.
 The output directory is /output, or MAKEFUN_OUTPUT_DIR when set, and is
 created if absent. No third-party libraries: just os and shutil.
 """

@@ -16,19 +16,20 @@ ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 HERE = os.path.dirname(os.path.abspath(__file__))
 ART = os.path.join(os.path.dirname(HERE), "art", "entry.png")
 PROMPT = (
-    "cute kawaii chibi gray kitten sitting inside a large cream-colored teacup, "
-    "oversized head poking above the thick rounded rim, worried surprised "
-    "expression with small black curved eyebrows and a tiny downturned mouth, "
-    "big expressive eyes with teal irises, yellow-green outer rings, black pupils "
-    "and white highlights, tiny pink triangular nose, triangular ears with pink "
-    "inner ears, thin black whiskers fanning sideways, ragged fur tufts on cheeks "
-    "and chest, one front paw draped over the front rim with toe lines, fluffy "
-    "tail curled upward to the viewer-right, one hind paw peeking out at the lower "
-    "right, cup has a C-shaped handle on the right and a white vertical highlight "
-    "on the left, soft darker mustard oval shadow beneath the cup, solid warm "
-    "mustard yellow background, thick clean black linework, flat colors, minimal "
-    "shading, subject centered with balancing negative space, sticker-like 2D "
-    "vector illustration, anxious cozy mood, square composition, no text"
+    "cute kawaii chibi orange tabby kitten curled into a near-circular C shape "
+    "mid-roll, oversized head turned toward the viewer, joyful wide-eyed "
+    "expression with a tiny open smile, huge blue eyes with big black pupils and "
+    "star-shaped white highlights, tiny pink triangular nose, triangular ears "
+    "with pink inner ears and zigzag fur tufts, long thin white whiskers fanning "
+    "outward, darker orange tabby stripes across the head, back and tail, cream "
+    "muzzle, chest, paws and jagged tail tip, one front paw raised at the chest "
+    "showing pink toe beans, other front paw tucked inward, hind legs folded "
+    "under the body with a hind paw peeking out, thick striped tail lifted and "
+    "curled upward to the viewer-right, black motion arcs tracing the roll beside "
+    "the tail and lower body, plain solid cream background, no ground shadow, "
+    "thick clean black linework, flat colors, light cel shading, subject centered "
+    "with balancing negative space, sticker-like 2D vector illustration, playful "
+    "cheerful mood, square composition, no text"
 )
 
 
