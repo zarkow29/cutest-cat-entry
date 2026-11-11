@@ -1,12 +1,12 @@
 # cutest cat
 
 Entry for the make.fun "Draw the cutest cat" competition. It writes exactly one
-picture — a chibi light grey kitten caught mid-sneeze, one front paw lifted up to
-its muzzle with pink toe beans showing, eyes squeezed shut, whiskers blown
-sideways, tail curled up on the right, thick black outlines on a flat pale blue
-background with a soft oval shadow — to `entry.png`.
+picture — a chibi pure white fluffy kitten standing on all four paws, a single
+small daisy held sideways in its mouth by the green stem, huge glossy blue eyes,
+tail curled up in a question mark on the right, bold black outlines on a flat pale
+sage green background with a soft oval shadow — to `entry.png`.
 
-- Picture: `art/entry.png`, 1024x1024 PNG, 859,938 bytes.
+- Picture: `art/entry.png`, 1024x1024 PNG, 855,750 bytes.
 - Limits: PNG or JPEG, at most 1 MiB (1,048,576 bytes), at most 1024x1024.
 - Output directory: `/output`, overridable with `MAKEFUN_OUTPUT_DIR`.
 

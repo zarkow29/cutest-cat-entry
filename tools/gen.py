@@ -16,18 +16,21 @@ ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 HERE = os.path.dirname(os.path.abspath(__file__))
 ART = os.path.join(os.path.dirname(HERE), "art", "entry.png")
 PROMPT = (
-    "cute kawaii chibi light grey kitten caught mid-sneeze, standing on three "
-    "legs, one rounded front paw lifted up to its own muzzle covering its nose and "
-    "mouth with soft pink toe beans showing, eyes squeezed tightly shut into two "
-    "curved black arcs, tiny pink triangular nose peeking above the paw, long thin "
-    "white whiskers blown sideways outward, upright triangular ears with pale pink "
-    "inner ears tilted slightly back, solid light off-white grey fur with no "
-    "stripes, plump small body with short legs, one hind leg lifted behind in a "
-    "little hop, thick fluffy tail with a rounded tip curling upward on the "
-    "viewer-right, one flat soft grey oval shadow under the paws, plain solid pale "
-    "powder blue background, thick clean black linework, flat colors, light cel "
-    "shading, subject centred with generous balancing negative space, sticker-like "
-    "2D vector illustration, cozy playful innocent mood, square composition, no text"
+    "cute kawaii chibi pure white fluffy longhaired kitten standing squarely on "
+    "all four paws, body angled slightly to the viewer-left with its head turned "
+    "toward the viewer, holding a single small daisy sideways in its mouth by the "
+    "green stem so the flower hangs at the left of its muzzle, white daisy petals "
+    "radiating around a warm yellow centre with two small green leaves on the "
+    "down-angled stem, huge round glossy blue eyes with dark pupils and white "
+    "catchlights, tiny pink triangular nose, pale pink inner ears, whiskers fanned "
+    "out gently, upright ears, soft plush body with visible toe lines on the "
+    "planted paws, thick fluffy white tail raised in a soft question-mark curl "
+    "upward on the viewer-right, one flat soft dark olive oval shadow under the "
+    "paws, plain solid pale sage green background, bold clean black linework, flat "
+    "colours, light cel shading in pale blue grey under the chin chest and legs, "
+    "subject centred full-body with generous balancing negative space, "
+    "sticker-like 2D vector illustration, cheerful gentle innocent mood, square "
+    "composition, no text"
 )
 
 
