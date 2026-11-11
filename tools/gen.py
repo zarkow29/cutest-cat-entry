@@ -16,19 +16,17 @@ ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 HERE = os.path.dirname(os.path.abspath(__file__))
 ART = os.path.join(os.path.dirname(HERE), "art", "entry.png")
 PROMPT = (
-    "cute kawaii cartoon white kitten sitting upright facing forward, wearing an "
-    "oversized bright red knitted beanie pulled low over the forehead with a folded "
-    "ribbed cuff and a fluffy pom-pom on top, ears poking out sideways through the "
-    "hat, viewer-left front paw raised and touching the brim as if tipping the hat, "
-    "other front paw planted between the hind paws, big glossy eyes with "
-    "heterochromia, viewer-left eye blue and viewer-right eye green, black pupils, "
-    "white eye highlights, tiny pink triangular nose, small closed curved smile, "
-    "pink inner ears, thin black whiskers, fluffy white fur with soft gray cel "
-    "shading under the chin, chest and legs, fluffy tail curling upward on the "
-    "viewer-right side, soft oval shadow beneath the body, flat solid light sage "
-    "green background, thick clean black linework, flat colors, subtle cel shading, "
-    "subject centered with breathing room, sticker-like 2D vector illustration, "
-    "cozy wintery mood, square composition, no text"
+    "cute kawaii chibi cream kitten sitting upright facing forward, oversized head, "
+    "holding a small pale blue plush fish vertically in both front paws with the "
+    "fish tail hanging down between them, tiny fish clamped gently at the mouth, "
+    "big glossy blue eyes with black pupils and white highlights, tiny pink "
+    "triangular nose, small content smile, triangular ears with pink inner ears, "
+    "thin black whiskers fanning sideways, soft ivory fur with faint warm shading, "
+    "fluffy tail curling to the viewer-right, stubby tucked hind paws, flat pale "
+    "mint green oval shadow beneath the body, solid pale mint green background, "
+    "thick clean black linework, flat pastel colors, minimal cel shading, subject "
+    "centered with generous breathing room, sticker-like 2D vector illustration, "
+    "innocent cozy mood, square composition, no text"
 )
 
 
