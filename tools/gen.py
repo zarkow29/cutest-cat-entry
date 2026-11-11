@@ -16,17 +16,19 @@ ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 HERE = os.path.dirname(os.path.abspath(__file__))
 ART = os.path.join(os.path.dirname(HERE), "art", "entry.png")
 PROMPT = (
-    "cute kawaii chibi cream kitten sitting upright facing forward, oversized head, "
-    "holding a small pale blue plush fish vertically in both front paws with the "
-    "fish tail hanging down between them, tiny fish clamped gently at the mouth, "
-    "big glossy blue eyes with black pupils and white highlights, tiny pink "
-    "triangular nose, small content smile, triangular ears with pink inner ears, "
-    "thin black whiskers fanning sideways, soft ivory fur with faint warm shading, "
-    "fluffy tail curling to the viewer-right, stubby tucked hind paws, flat pale "
-    "mint green oval shadow beneath the body, solid pale mint green background, "
-    "thick clean black linework, flat pastel colors, minimal cel shading, subject "
-    "centered with generous breathing room, sticker-like 2D vector illustration, "
-    "innocent cozy mood, square composition, no text"
+    "cute kawaii chibi gray kitten sitting inside a large cream-colored teacup, "
+    "oversized head poking above the thick rounded rim, worried surprised "
+    "expression with small black curved eyebrows and a tiny downturned mouth, "
+    "big expressive eyes with teal irises, yellow-green outer rings, black pupils "
+    "and white highlights, tiny pink triangular nose, triangular ears with pink "
+    "inner ears, thin black whiskers fanning sideways, ragged fur tufts on cheeks "
+    "and chest, one front paw draped over the front rim with toe lines, fluffy "
+    "tail curled upward to the viewer-right, one hind paw peeking out at the lower "
+    "right, cup has a C-shaped handle on the right and a white vertical highlight "
+    "on the left, soft darker mustard oval shadow beneath the cup, solid warm "
+    "mustard yellow background, thick clean black linework, flat colors, minimal "
+    "shading, subject centered with balancing negative space, sticker-like 2D "
+    "vector illustration, anxious cozy mood, square composition, no text"
 )
 
 
