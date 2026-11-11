@@ -16,15 +16,16 @@ ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 HERE = os.path.dirname(os.path.abspath(__file__))
 ART = os.path.join(os.path.dirname(HERE), "art", "entry.png")
 PROMPT = (
-    "cute kawaii cartoon cream off-white cat sitting upright facing the viewer, "
-    "hugging a round pink yarn ball to its chest with both front paws, hind legs "
-    "splayed outward showing pink paw pads and toe beans, round chubby body, big "
-    "head, upright triangular ears with pink inner ears, simple black dot eyes, "
-    "tiny pink nose, open happy smile with pink tongue, three white whiskers per "
-    "side, thick clean black outlines, flat fills, no shading, solid pale mint "
-    "green background, subject centered with generous negative space, pink yarn "
-    "strand trailing down to the lower left, sticker-like 2D vector illustration, "
-    "soft pastel palette, playful cozy mood, square composition, no text"
+    "cute kawaii cartoon orange tabby kitten asleep curled up inside an oversized "
+    "white ceramic teacup, head resting on the left, body curled toward the right, "
+    "eyes closed contentedly, tiny pink nose, white muzzle, pink inner ears, long "
+    "whiskers, front paws tucked over the front rim of the cup, light orange fur "
+    "with darker orange tabby stripes, white cup with a thick black outline, large "
+    "handle on the right and pale blue-gray shading, soft oval shadow beneath the "
+    "cup, thick clean black linework, flat colors, subtle cel shading, solid light "
+    "peach beige background, subject centered, cup filling the lower two thirds, "
+    "sticker-like 2D vector illustration, soft warm palette, cozy mood, square "
+    "composition, no text"
 )
 
 
