@@ -16,10 +16,13 @@ ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 HERE = os.path.dirname(os.path.abspath(__file__))
 ART = os.path.join(os.path.dirname(HERE), "art", "entry.png")
 PROMPT = (
-    "adorable fluffy cream kitten crouched low, haunches loaded and wide-eyed, "
-    "about to pounce on a bright orange butterfly hovering just above its nose, "
-    "tail flicking, long white whiskers, bold clean cartoon outlines, flat pastel "
-    "mint background, single cat centered, no text, simple readable shapes"
+    "adorable gray tabby kitten peeking out of a terracotta flower pot, only head "
+    "and front paws visible with tiny claws hooked over the pot rim, huge green "
+    "eyes with white sparkle highlights, white muzzle and long white whiskers, pink "
+    "nose and inner ears, dark tabby stripes on forehead and cheeks, bold clean "
+    "cartoon outlines, flat shading, plain pale cream-yellow background, soft oval "
+    "shadow under the pot, single cat centered and facing forward, no text, simple "
+    "readable shapes"
 )
 
 

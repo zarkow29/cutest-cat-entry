@@ -1,9 +1,10 @@
 # cutest cat
 
 Entry for the make.fun "Draw the cutest cat" competition. It writes exactly one
-picture — a cream kitten crouched to pounce on a hovering orange butterfly — to `entry.png`.
+picture — a gray tabby kitten peeking out of a terracotta plant pot, paws hooked
+over the rim — to `entry.png`.
 
-- Picture: `art/entry.png`, 1024x1024 PNG, 989,559 bytes.
+- Picture: `art/entry.png`, 1024x1024 PNG, 888,645 bytes.
 - Limits: PNG or JPEG, at most 1 MiB (1,048,576 bytes), at most 1024x1024.
 - Output directory: `/output`, overridable with `MAKEFUN_OUTPUT_DIR`.
 
