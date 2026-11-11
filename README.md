@@ -1,12 +1,12 @@
 # cutest cat
 
 Entry for the make.fun "Draw the cutest cat" competition. It writes exactly one
-picture — a chibi cream kitten peeking out of an open brown cardboard box, both
-front paws draped over the front edge and a fluffy tail curling up on the right,
-all huge glossy black eyes and a tiny pink nose, thick black outlines on a flat
-dusty rose background — to `entry.png`.
+picture — a chibi light grey kitten caught mid-sneeze, one front paw lifted up to
+its muzzle with pink toe beans showing, eyes squeezed shut, whiskers blown
+sideways, tail curled up on the right, thick black outlines on a flat pale blue
+background with a soft oval shadow — to `entry.png`.
 
-- Picture: `art/entry.png`, 1024x1024 PNG, 875,190 bytes.
+- Picture: `art/entry.png`, 1024x1024 PNG, 859,938 bytes.
 - Limits: PNG or JPEG, at most 1 MiB (1,048,576 bytes), at most 1024x1024.
 - Output directory: `/output`, overridable with `MAKEFUN_OUTPUT_DIR`.
 

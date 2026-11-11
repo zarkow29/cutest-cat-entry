@@ -16,21 +16,18 @@ ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 HERE = os.path.dirname(os.path.abspath(__file__))
 ART = os.path.join(os.path.dirname(HERE), "art", "entry.png")
 PROMPT = (
-    "cute kawaii chibi cream kitten peeking out of an open brown cardboard box, "
-    "only its oversized head, two front paws and fluffy tail showing, body hidden "
-    "inside the box, both rounded front paws draped over the front edge of the box "
-    "with soft toe lines, head centred and facing the viewer with a slight innocent "
-    "tilt, huge glossy round black eyes with big white catchlights and tiny curved "
-    "eyebrow dashes, pleading wide-eyed expression, tiny pink triangular nose, small "
-    "W-shaped mouth, upright triangular ears with pale pink inner ears and little fur "
-    "tufts, long thin white whiskers fanning outward, solid cream off-white fur with "
-    "no stripes, soft cheek tufts, box top flaps folded open and angled outward, one "
-    "small rectangular tape label on the box front, thick fluffy cream tail curling "
-    "upward on the viewer-right like a question mark with a jagged fluffy tip, plain "
-    "solid dusty rose pink background, no ground shadow, thick clean black linework, "
-    "flat colors, light cel shading, subject centred with generous balancing negative "
-    "space, sticker-like 2D vector illustration, cozy playful innocent mood, square "
-    "composition, no text"
+    "cute kawaii chibi light grey kitten caught mid-sneeze, standing on three "
+    "legs, one rounded front paw lifted up to its own muzzle covering its nose and "
+    "mouth with soft pink toe beans showing, eyes squeezed tightly shut into two "
+    "curved black arcs, tiny pink triangular nose peeking above the paw, long thin "
+    "white whiskers blown sideways outward, upright triangular ears with pale pink "
+    "inner ears tilted slightly back, solid light off-white grey fur with no "
+    "stripes, plump small body with short legs, one hind leg lifted behind in a "
+    "little hop, thick fluffy tail with a rounded tip curling upward on the "
+    "viewer-right, one flat soft grey oval shadow under the paws, plain solid pale "
+    "powder blue background, thick clean black linework, flat colors, light cel "
+    "shading, subject centred with generous balancing negative space, sticker-like "
+    "2D vector illustration, cozy playful innocent mood, square composition, no text"
 )
 
 
