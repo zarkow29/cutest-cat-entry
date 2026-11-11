@@ -1,10 +1,10 @@
 # cutest cat
 
 Entry for the make.fun "Draw the cutest cat" competition. It writes exactly one
-picture — a chibi orange tabby kitten curled asleep in an oversized white teacup,
-thick black outlines on a flat light peach background — to `entry.png`.
+picture — a chibi white kitten in a red knit beanie tipping the brim with one raised
+paw, thick black outlines on a flat pale sage green background — to `entry.png`.
 
-- Picture: `art/entry.png`, 1024x1024 PNG, 879,109 bytes.
+- Picture: `art/entry.png`, 1024x1024 PNG, 962,278 bytes.
 - Limits: PNG or JPEG, at most 1 MiB (1,048,576 bytes), at most 1024x1024.
 - Output directory: `/output`, overridable with `MAKEFUN_OUTPUT_DIR`.
 
